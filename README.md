@@ -1,3 +1,3 @@
 # Digital-Clock
 
-![Demo Image](clockImg.png)
+![Demo Image](clockDemo.png)
